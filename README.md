@@ -1,11 +1,11 @@
 # my_todo App
 
 
-This is a todo list app created with React components, props and state.
+This is a todo list app created with React using components, props and state.
 
 ### Features
 
-It shows an a list of tasks and the user will be able to add new things to do.
+It shows a list of tasks and the user will be able to add new things to do and search for specific task.
 
 ### Usage
 

@@ -18,6 +18,19 @@ class App extends Component {
     })
   }
 
+search (e) {
+    var search_term = e.target.value;
+
+    var filtered = this. state.todos.filter (functon(todo)){
+      return tod.includes(search_term);
+    });
+
+  this.setState({
+    filtered_todos:
+  })
+}
+
+
   render() {
     return (
       <div className="App">

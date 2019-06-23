@@ -19,9 +19,9 @@ It shows the following
 
 ### Usage
 
-create-react-app
-npm install
-npm start
+- create-react-app
+- npm install
+- npm start
 
 
 Visit http://localhost:3000/
